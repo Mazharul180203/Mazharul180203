@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-  I'm a passionate Full Stack Software Engineer with strong problem-solving skills and experience in both frontend and backend technologies.<br><br>
+  I'm a passionate Full Stack Software Engineer with strong problem-solving skills and experience in both backend and frontend technologies.<br><br>
   - 🔭 I’m currently working on building scalable applications using Node.js and .NET Core with a microservices architecture<br>
   - 📚 I'm currently exploring advanced patterns in distributed systems and cloud-native development<br>
   - ⚡ In my free time, I love competitive programming and contributing to open-source projects
