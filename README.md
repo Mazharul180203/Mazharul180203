@@ -14,11 +14,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
